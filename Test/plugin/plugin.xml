@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="org.moduscreate.modplyr" version="0.0.1">
+	<name>ModPlyr</name>
+	<description>MODify Player</description>
+	<license>Apache 2.0</license>
+	<keywords>cordova,device</keywords>
+    <js-module src="src/ios/ModPlyr.js" name="ModPlyr">
+        <clobbers target="ModPlyr" />
+    </js-module>
+
+    <engines>
+        <engine name="cordova" version="&gt;=3.0.0" />
+    </engines>
+
+    <platform name="ios">
+        <config-file target="config.xml" parent="/*">
+            <feature name="ModPlyr">
+                <param name="ios-package" value="ModPlyr"/>
+            </feature>
+        </config-file>
+
+        <header-file src="src/ios/ModPlyr.h" />
+        <source-file src="src/ios/ModPlyr.m" />
+
+        <!-- <source-file src="src/ios/libModPlyr/libModPlyr.a" framework="true" compiler-flags="-fno-objc-arc" /> -->
+        <!-- <source-file src="src/ios/libModPlyr/libLibModPlyr.a" framework="true" compiler-flags="-fno-objc-arc" /> -->
+
+    </platform>
+</plugin>

@@ -1,0 +1,26 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"ModPlyr\"><param name=\"ios-package\" value=\"ModPlyr\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "org.moduscreate.modplyr": {
+            "PACKAGE_NAME": "com.mc.Test"
+        }
+    },
+    "dependent_plugins": {}
+}

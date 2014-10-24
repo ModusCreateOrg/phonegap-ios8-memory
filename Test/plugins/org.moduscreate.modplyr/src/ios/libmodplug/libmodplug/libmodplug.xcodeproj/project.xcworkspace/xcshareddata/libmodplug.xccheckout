@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>897EA7EC-7BB8-48E4-AE6E-06D75D77E60B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>libmodplug</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8581FCDBE2740504A94C19E87284C956DF7A5DAE</key>
+		<string>github.com:ModusCreateOrg/ModusModPlayer.git</string>
+		<key>EA74B1461F5FBC9EC97688BB3AFCB02713DBA164</key>
+		<string>https://github.com/yoyofr/modizer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>legacy/ios/ModusModPlayer/Plugins/libmodplug/libmodplug.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8581FCDBE2740504A94C19E87284C956DF7A5DAE</key>
+		<string>../../../../../../..</string>
+		<key>EA74B1461F5FBC9EC97688BB3AFCB02713DBA164</key>
+		<string>../../../../../../../../modizer</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:ModusCreateOrg/ModusModPlayer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8581FCDBE2740504A94C19E87284C956DF7A5DAE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EA74B1461F5FBC9EC97688BB3AFCB02713DBA164</string>
+			<key>IDESourceControlWCCName</key>
+			<string>modizer</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8581FCDBE2740504A94C19E87284C956DF7A5DAE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ModusModPlayer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
