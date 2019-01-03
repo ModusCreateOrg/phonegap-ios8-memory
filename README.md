@@ -1,3 +1,12 @@
+![No longer maintained](https://img.shields.io/badge/Maintenance-OFF-red.svg)
+### [DEPRECATED] This repository is no longer maintained
+> While this project is fully functional, the dependencies are no longer up to date. You are still welcome to explore, learn, and use the code provided here.
+>
+> Modus is dedicated to supporting the community with innovative ideas, best-practice patterns, and inspiring open source solutions. Check out the latest [Modus Labs](https://labs.moduscreate.com?utm_source=github&utm_medium=readme&utm_campaign=deprecated) projects.
+
+[![Modus Labs](https://res.cloudinary.com/modus-labs/image/upload/h_80/v1531492623/labs/logo-black.png)](https://labs.moduscreate.com?utm_source=github&utm_medium=readme&utm_campaign=deprecated)
+
+---
 A simple app to test memory accretion with iOS8.
 
 This application simply uses a pretty vanilla PhoneGap application that demonstrates that either PhoneGap for iOS8 or the iOS8 JavaScript VM has problems with the JavaScript to ObjectiveC communication.  *NOTE*:This is not a problem with iOS5,6 or 7.
